@@ -1,2 +1,2 @@
 # primes
-Eratosthene sieve, no need in Atkins algorhytm
+Eratosthene sieve, no need in Atkins algorithm
