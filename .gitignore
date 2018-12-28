@@ -12,5 +12,4 @@ public/hot
 storage/*.key
 .env.*.php
 .env.php
-.env
 .idea
